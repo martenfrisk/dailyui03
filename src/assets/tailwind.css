@@ -1,0 +1,9 @@
+@tailwind base;
+
+@tailwind components;
+
+.Typewriter {
+    @apply block text-left;
+}
+
+@tailwind utilities;
